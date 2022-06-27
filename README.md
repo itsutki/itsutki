@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsutki
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning CSS
 - 📫 How to reach me https://t.me/utkiutki
 
 <!---
