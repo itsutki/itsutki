@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsutki
+- 👋 Hi, I’m Utku
 - 🌱 I’m currently learning Python
 - 📫 How to reach me https://t.me/utkiutki
 
